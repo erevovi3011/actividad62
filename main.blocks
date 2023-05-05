@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="a8a@ag*04u%T6.c.y6A7" x="225" y="20"><statement name="HANDLER"><block type="controls_if" id="(ihs=pwbe:~6lcYOwK:G"><mutation else="1"></mutation><value name="IF0"><shadow type="logic_boolean" id="lRN5R1Kg,YVE`h#1rt?@"><field name="BOOL">TRUE</field></shadow><block type="logic_compare" id="!r2YVBXY:P$ECi,hLyy["><field name="OP">GT</field><value name="A"><shadow type="math_number" id="#B*i+sC9wS)5%!Oj~*::"><field name="NUM">0</field></shadow><block type="device_temperature" id="[]FX7H:6n6m]@1z/?;Z4"></block></value><value name="B"><shadow type="math_number" id="S9N+ec{a}6!O(,D{x^v2"><field name="NUM">30</field></shadow></value></block></value></block></statement></block></xml>
